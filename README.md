@@ -1,4 +1,8 @@
-# Higher-Degree Shape Functions for Tetrahedral and Triangular Elements
+# Shape Function Calculator
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+## Higher-Degree Shape Functions for Tetrahedral and Triangular Elements
 
 These Python scripts calculate higher-degree shape functions for tetrahedral and triangular finite elements which are used in FEM: 
 There is ongoing research in PINNs (Physics-informed neural networks) and GPU accelerations in FEM using higher degree shape functions.
@@ -11,6 +15,19 @@ These scripts may prove useful to try some experiments on higher degree elements
 ## Usage
 To use the scripts, simply change the degree parameter in the code to your desired value and run it in IPython or any IDE you prefer.
 Set the degree to your desired value: `degree = n  # Replace 'n' with the desired degree`
+
+##License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Attribution Requirement:
+
+You are required to provide attribution to the original author in any use of this software. Please include the following:
+
+The original author's name: Gediz GÜRSU
+A link to the original repository: Shape Function Calculator
+An indication if changes were made.
+Example attribution:
+`This software uses code from Shape Function Calculator by Gediz GÜRSU (https://github.com/TeaCult/Shape-Function-Calculator).`
 
 ## Results for tethrahedral 4th degree Shape Functions: 
 
@@ -103,3 +120,18 @@ Bu script'ler, yüksek dereceli elemanlar üzerinde bazı deneyler yapmak için 
 ## Kullanım
 Betikleri kullanmak için, kodda bulunan degree parametresini istediğiniz değere değiştirin ve IPython veya tercih ettiğiniz herhangi bir IDE'de çalıştırın.
 İstediğiniz dereceyi ayarlayın:  `degree = n # 'n' yerine istediğiniz dereceyi yazın`
+
+## Lisans
+Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için `LICENSE` dosyasına bakın.
+
+Atıf Gereksinimi:
+
+Bu yazılımın herhangi bir kullanımında orijinal yazara atıf yapmanız gerekmektedir. Lütfen aşağıdakileri ekleyin:
+
+Orijinal yazarın adı: Gediz GÜRSU
+Orijinal depo bağlantısı: Shape Function Calculator
+Değişiklik yapıldıysa belirtiniz.
+
+Örnek Atıf
+`Bu yazılım, Gediz GÜRSU tarafından geliştirilen Shape Function Calculator'dan alınmıştır (https://github.com/TeaCult/Shape-Function-Calculator).`
+

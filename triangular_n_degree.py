@@ -1,3 +1,8 @@
+# Shape Function Calculator
+# https://github.com/TeaCult/Shape-Function-Calculator
+# Copyright (c) 2023 Gediz GÜRSU
+# Released under the MIT License
+
 import sympy as sp
 import numpy as np
 import matplotlib.pyplot as plt
