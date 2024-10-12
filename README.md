@@ -16,7 +16,7 @@ These scripts may prove useful to try some experiments on higher degree elements
 To use the scripts, simply change the degree parameter in the code to your desired value and run it in IPython or any IDE you prefer.
 Set the degree to your desired value: `degree = n  # Replace 'n' with the desired degree`
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Attribution Requirement:
